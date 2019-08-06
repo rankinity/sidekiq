@@ -13,3 +13,4 @@ vendor/
 tmp/
 pkg/*.gem
 .byebug_history
+.idea/
